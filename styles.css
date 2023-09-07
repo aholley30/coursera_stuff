@@ -1,0 +1,10 @@
+* {
+   background-color: #ace9e4;
+}
+header {
+   text-align: center;
+}
+nav {
+   display: inline-flex;
+   flex: 50px 1fr;
+}
